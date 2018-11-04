@@ -1,2 +1,1 @@
-# Halloween-Game
-Halloween flip card game in JS
+Halloween Game
